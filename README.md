@@ -18,3 +18,7 @@ The service is properly documented and has preliminary unit and integration test
 To run the tests in the test project, you merely need to add a Stripe test-key to the App.config file in the test project.
 
 Similarly, to use Stripe, you must add a key that accesses your Stripe account, into your App.config file. This is how the application will connect to Stripe.
+
+
+# Feedback
+Please send all feedback, whether positive or negative, or inquiries, to codefun64@gmail.com.
